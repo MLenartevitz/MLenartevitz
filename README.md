@@ -18,8 +18,6 @@
     <img aling="center" alt="htmls" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
     <img aling="center" alt="htmls" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
  </div><br/>
-    <img aling="center" alt="htmls" src="https://img.shields.io/badge/CSS3-00599C?style=for-the-badge&logo=c&logoColor=white" />
-    <img aling="center" alt="htmls" src="https://img.shields.io/badge/HTML5-00599C?style=for-the-badge&logo=c&logoColor=white" />
-
+    
 ### Bio
     "Em busca de conhecimento..."
